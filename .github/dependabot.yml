@@ -4,6 +4,7 @@ updates:
     directories: 
       - "/"
       - "/demo-picker"
+    schedule:
       interval: "weekly"
       day: "sunday"
       time: "02:00"
